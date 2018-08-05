@@ -9,4 +9,9 @@
     "question": "example question two?",
     "answer": "example answer two"
   },
+ {
+    "category": "example three",
+    "question": "example question three?",
+    "answer": "example answer three"
+  }
 ]
