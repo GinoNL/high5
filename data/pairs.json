@@ -1,0 +1,12 @@
+[
+  {
+    "category": "example",
+    "question": "example question?",
+    "answer": "example answer"
+  },
+  {
+    "category": "example two",
+    "question": "example question two?",
+    "answer": "example answer two"
+  },
+]
