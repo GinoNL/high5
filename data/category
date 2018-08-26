@@ -1,0 +1,26 @@
+[
+  {
+    "Number": 1,
+    "Category": "Films/series"
+  },
+  {
+    "Number": 2,
+    "Category": "Muziek"
+  },
+  {
+    "Number": 3,
+    "Category": "Geschiedenis"
+  },
+  {
+    "Number": 4,
+    "Category": "Topografie"
+  },
+  {
+    "Number": 5,
+    "Category": "Celebrity"
+  },
+  {
+    "Number": 6,
+    "Category": "Wetenschap"
+  }
+]
