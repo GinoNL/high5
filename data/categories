@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Films/series"
+  },
+  {
+    "id": 2,
+    "name": "Muziek"
+  },
+  {
+    "id": 3,
+    "name": "Geschiedenis"
+  },
+  {
+    "id": 4,
+    "name": "Topografie"
+  },
+  {
+    "id": 5,
+    "name": "Celebrity"
+  },
+  {
+    "id": 6,
+    "name": "Wetenschap"
+  },
+  {
+    "id": 7,
+    "name": "Sport"
+  }
+]
