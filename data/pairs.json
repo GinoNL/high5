@@ -1,1538 +1,1773 @@
 [
   {
-    "category": "1",
-    "id": "1",
-    "question": "Hoe heet het meisje dat gevangen zat in de put in de film The Ring?",
-    "answer": "samara morgan"
+    "category": 1,
+    "id": 1,
+    "question": "Hoe heet het meisje dat gevangen zat in de put bij de film The Ring?",
+    "answer": "samara morgan",
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "2",
+    "category": 1,
+    "id": 2,
     "question": "Wat was de voornaam van The Great Gatsby?",
-    "answer": "jay"
+    "answer": "jay",
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "3",
+    "category": 1,
+    "id": 3,
     "question": "Wie speelt de rol van Frank Lucas in de film American Gangster?",
-    "answer": "denzel washington"
+    "answer": "denzel washington",
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "4",
+    "category": 1,
+    "id": 4,
     "question": "Door wie is de serie Stranger Things geschreven en geregisseerd?",
-    "answer": "matt en ross duffer"
+    "answer": "matt en ross duffer",
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "5",
+    "category": 1,
+    "id": 5,
     "question": "Welke afkomst heeft Aladdin oorspronkelijk in duizend en een nacht?",
-    "answer": "chinees"
+    "answer": "chinees",
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "6",
-    "question": "Hoe heet de film gebaseerd op deelname van het jamaicaanse bobsleeteam aan de olympische winterspelen van 1988?",
-    "answer": "cool runnings"
+    "category": 1,
+    "id": 6,
+    "question": "Hoe heet de film gebaseerd op deelname van het jamaicaanse bobsleeteam�aan de olympische winterspelen van 1988?",
+    "answer": "cool runnings",
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "7",
+    "category": 1,
+    "id": 7,
     "question": "Van welke film uit 2014 hebben de opnamens 12 jaar in beslag genomen?",
-    "answer": "boyhood"
+    "answer": "boyhood",
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "8",
+    "category": 1,
+    "id": 8,
     "question": "Welke film heeft naast Ben Hur en The Return of The King 11 Oscars gewonnen?",
-    "answer": "titanic"
+    "answer": "titanic",
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "9",
+    "category": 1,
+    "id": 9,
     "question": "Wat is de echte naam van acteur Michael Keaton?",
-    "answer": "michael douglas"
+    "answer": "michael douglas",
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "10",
+    "category": 1,
+    "id": 10,
     "question": "Voor welke dieren was Walt Disney bang?",
-    "answer": "muizen"
+    "answer": "muizen",
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "75",
+    "category": 1,
+    "id": 11,
     "question": "Welke film gaat over een man die jarenlang op een luchthaven moet wonen?",
-    "answer": "the terminal"
+    "answer": "the terminal",
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "76",
+    "category": 1,
+    "id": 12,
     "question": "Hoe heet de film waarin Tom Cruise criminelen kan arresteren voordat die een misdaad hebben begaan?",
-    "answer": "minority report"
+    "answer": "minority report",
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "77",
+    "category": 1,
+    "id": 13,
     "question": "Welk karakter speelt Hugh Jackman in de X-Men films?",
-    "answer": "wolverine"
+    "answer": "wolverine",
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "78",
+    "category": 1,
+    "id": 14,
     "question": "In welk jaar is Netflix opgericht?",
-    "answer": "1997"
+    "answer": 1997,
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "79",
+    "category": 1,
+    "id": 15,
     "question": "Voor welke rol in Friends deed Jennifer Aniston oorspronkelijk auditie?",
-    "answer": "monica"
+    "answer": "monica",
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "80",
+    "category": 1,
+    "id": 16,
     "question": "Wie speelde de rol van Monica in de serie Friends?",
-    "answer": "courteney cox"
+    "answer": "courteney cox",
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "81",
+    "category": 1,
+    "id": 17,
     "question": "Hoeveel dollar verdienden de hoofdrolspelers per aflevering in het laatste seizoen van Friends?",
-    "answer": "1000000"
+    "answer": 1000000,
+    "media": ""
   },
   {
-    "category": "1",
-    "id": "82",
+    "category": 1,
+    "id": 18,
     "question": "Welke talkshowhost is benaderd voor de rol van Phoebe in Friends?",
-    "answer": "ellen degeneres"
+    "answer": "ellen degeneres",
+    "media": ""
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 19,
     "question": "Welke actrice is dit?",
     "answer": "lindsay lohan",
     "media": "https://github.com/g13g/high5/blob/master/data/images/Lindsey%20Lohan.JPG"
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 20,
     "question": "Welke acteur is dit?",
     "answer": "joseph gordon-levitt",
     "media": "https://github.com/g13g/high5/blob/master/data/images/Joseph%20Gordon-Levitt.JPG"
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 21,
     "question": "Welke rol speelde deze actrice in Homeland?",
     "answer": "carrie mathison",
     "media": "https://github.com/g13g/high5/blob/master/data/images/Carrie%20Mathison.JPG"
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 22,
     "question": "Als welk personage werd deze acteur wereldwijd bekend?",
     "answer": "steve urkel",
     "media": "https://github.com/g13g/high5/blob/master/data/images/steve%20urkel.JPG"
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 23,
     "question": "In welke jaar kwam deze film uit?",
-    "answer": "1997",
+    "answer": 1997,
     "media": "https://youtu.be/pJ31ILgh0d4"
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 24,
     "question": "Welke acteur in de film The Sixth Sense zien we hier?",
     "answer": "donnie wahlberg",
     "media": "https://github.com/g13g/high5/blob/master/data/images/donnie_wahlberg.jpg"
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 25,
     "question": "Uit welke film komt deze scene?",
     "answer": "hot fuzz",
     "media": "https://youtu.be/zo_XLtaXzb8"
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 26,
     "question": "Uit welke film komt deze scene?",
     "answer": "avatar",
     "media": "https://youtu.be/besRSmrlyFc"
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 27,
     "question": "Welke acteur zien we hier?",
     "answer": "dustin hoffman",
     "media": "https://youtu.be/O4UGrEMN-nc"
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 28,
     "question": "Van welke film zien we hier een deel?",
     "answer": "top gun",
     "media": "https://youtu.be/EKj2XxSeVfU"
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 29,
     "question": "Uit welke film komt deze scene?",
     "answer": "scream",
     "media": "https://youtu.be/8aAzq1td4G8"
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 30,
     "question": "Welk personage heeft in deze scene een masker in zijn hand?",
     "answer": "the joker",
     "media": "https://youtu.be/51Fbko28xxM"
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 31,
     "question": "Van welke serie is dit de intro?",
     "answer": "the x-files",
     "media": "https://youtu.be/KCnJHRM9AJA"
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 32,
     "question": "Van welke serie is dit de intro?",
     "answer": "friends",
     "media": "https://www.youtube.com/watch?v=QgqUpvn2ykQ&feature=youtu.be"
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 33,
     "question": "Van welke serie is dit de intro?",
     "answer": "csi miami",
     "media": "https://youtu.be/y_oTELHEvw8"
   },
   {
-    "category": "1",
+    "category": 1,
+    "id": 34,
     "question": "Van welke serie is dit de intro?",
     "answer": "dexters laboratory",
     "media": "https://youtu.be/Cuwy3xx1VRA"
   },
   {
-    "category": "2",
-    "id": "363",
+    "category": 2,
+    "id": 35,
     "question": "Welke Nederlandse band had in 2018 een nummer 1 hit in Frankrijk nadat Frankrijk het WK voetbal won?",
-    "answer": "hermes house band"
+    "answer": "hermes house band",
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "364",
+    "category": 2,
+    "id": 36,
     "question": "Hoeveel weken stond Pharrell Williams in de Top 40 met het nummer Happy?",
-    "answer": "49"
+    "answer": 49,
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "365",
+    "category": 2,
+    "id": 37,
     "question": "Hoeveel weken stond Avicii in de Top 40 met het nummer Wake me up?",
-    "answer": "36"
+    "answer": 36,
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "366",
+    "category": 2,
+    "id": 38,
     "question": "Welk muziekgenre is in de late jaren '80 ontstaan in Seattle?",
-    "answer": "grunge"
+    "answer": "grunge",
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "367",
-    "question": "Hoe heet de Nederlandse computer die automatisch rapteksten schrijft? ",
-    "answer": "deepflow"
+    "category": 2,
+    "id": 39,
+    "question": "Hoe heet de Nederlandse computer die automatisch rapteksten schrijft?",
+    "answer": "deepflow",
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "368",
+    "category": 2,
+    "id": 40,
     "question": "Wie debuteerde in 2004 met de single Get Out (Leave)?",
-    "answer": "jojo"
+    "answer": "jojo",
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "369",
+    "category": 2,
+    "id": 41,
     "question": "Wat is de artiestennaam van Onika Tanya Maraj ?",
-    "answer": "nicki minaj"
+    "answer": "nicki minaj",
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "370",
+    "category": 2,
+    "id": 42,
     "question": "Over welk onderwerp wordt sinds de Renaissance gezongen naast God?",
-    "answer": "liefde"
+    "answer": "liefde",
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "361",
+    "category": 2,
+    "id": 43,
     "question": "Waar gingen de Four Tops 'loco'?",
-    "answer": "acapulco"
+    "answer": "acapulco",
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "354",
+    "category": 2,
+    "id": 44,
     "question": "Wat was de eerste hit van Mariah Carey in Japan?",
-    "answer": "all i want for christmas is you"
+    "answer": "all i want for christmas is you",
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "226",
+    "category": 2,
+    "id": 45,
     "question": "Bono van U2 had oorspronkelijk de bijnaam Bono Vox. Wat betekent dit?",
-    "answer": "goede stem"
+    "answer": "goede stem",
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "227",
+    "category": 2,
+    "id": 46,
     "question": "In welk jaar kwam het origineel van Candle in The Wind van Elton John uit?",
-    "answer": "1973"
+    "answer": 1973,
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "228",
+    "category": 2,
+    "id": 47,
     "question": "Voor welke hit won Elton John in 1994 een Oscar?",
-    "answer": "can you feel the love tonight"
+    "answer": "can you feel the love tonight",
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "229",
+    "category": 2,
+    "id": 48,
     "question": "Wie was met 66 jaar en 10 maanden de oudste artiest met een nummer 1 hit in Engeland?",
-    "answer": "louis armstrong"
+    "answer": "louis armstrong",
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "320",
+    "category": 2,
+    "id": 49,
     "question": "Welke artiest besloot in 2016 niet langer make-up te dragen?",
-    "answer": "alicia keys"
+    "answer": "alicia keys",
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "321",
+    "category": 2,
+    "id": 50,
     "question": "Wie was de eerste artiest met een top 10 hit in 5 verschillende decennia?",
-    "answer": "michael jackson"
+    "answer": "michael jackson",
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "352",
+    "category": 2,
+    "id": 51,
     "question": "De ex van welke artiest eiste een deel van de royalties omdat veel nummers over hun vroegere relatie zouden gaan?",
-    "answer": "adele"
+    "answer": "adele",
+    "media": ""
   },
   {
-    "category": "2",
-    "id": "352",
+    "category": 2,
+    "id": 52,
     "question": "Welke zangeres is dit?",
     "answer": "gladys night",
     "media": "https://github.com/g13g/high5/blob/master/data/images/Gladys%20Night.JPG"
   },
   {
-    "category": "2",
-    "id": "352",
+    "category": 2,
+    "id": 53,
     "question": "Welke zangeres is dit?",
     "answer": "dolly parton",
     "media": "https://github.com/g13g/high5/blob/master/data/images/Dolly%20Parton.JPG"
   },
   {
-    "category": "2",
-    "id": "352",
+    "category": 2,
+    "id": 54,
     "question": "In welke poproep zat deze zangeres?",
     "answer": "abba",
     "media": "https://github.com/g13g/high5/blob/master/data/images/Zangeres%20Abba.JPG"
   },
   {
-    "category": "2",
-    "id": "352",
+    "category": 2,
+    "id": 55,
     "question": "Welke rapformatie horen we hier?",
     "answer": "migos",
     "media": "https://www.youtube.com/watch?v=kEq6h-kFj0A"
   },
   {
-    "category": "2",
-    "id": "352",
+    "category": 2,
+    "id": 56,
     "question": "Bij welk nummer hoort deze videoclip?",
     "answer": "like a prayer",
     "media": "https://www.youtube.com/watch?v=tGc6NasT-S0&feature=youtu.be"
   },
   {
-    "category": "3",
-    "id": "412",
+    "category": 3,
+    "id": 57,
     "question": "Wie was de laatste president van de Sovjetunie?",
-    "answer": "mikhail gorbachev"
+    "answer": "mikhail gorbachev",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "413",
+    "category": 3,
+    "id": 58,
     "question": "Welk politiek systeem uit Zuid-Afrika nam na 1989 snel af?",
-    "answer": "apartheid"
+    "answer": "apartheid",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "414",
+    "category": 3,
+    "id": 59,
     "question": "Van welk land werd de premier in 1986 vermoord na een bioscoopavond met zijn vrouw?",
-    "answer": "zweden"
+    "answer": "zweden",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "415",
+    "category": 3,
+    "id": 60,
     "question": "In welk jaar werd de Berlijnse Muur gesloopt?",
-    "answer": "1989"
+    "answer": 1989,
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "416",
+    "category": 3,
+    "id": 61,
     "question": "Hoe heette Zimbabwe voor 1980?",
-    "answer": "zuid-rhodezie"
+    "answer": "zuid-rhodezie",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "417",
+    "category": 3,
+    "id": 62,
     "question": "Wie werd president van Amerika nadat Lincoln vermoord werd?",
-    "answer": "andrew johnson"
+    "answer": "andrew johnson",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "418",
+    "category": 3,
+    "id": 63,
     "question": "In welk jaar stierf Queen Elizabeth I?",
-    "answer": "1603"
+    "answer": 1603,
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "419",
+    "category": 3,
+    "id": 64,
     "question": "Wie ontdekte een vaccin tegen de pokken?",
-    "answer": "edward jenner"
+    "answer": "edward jenner",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "420",
+    "category": 3,
+    "id": 65,
     "question": "In welk land is Karl Marx geboren?",
-    "answer": "duitsland"
+    "answer": "duitsland",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "421",
+    "category": 3,
+    "id": 66,
     "question": "In welk jaar zonk de Titanic?",
-    "answer": "1912"
+    "answer": 1912,
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "422",
+    "category": 3,
+    "id": 67,
     "question": "Tijdens de lancering van welke spaceshuttle werd gezegd: 'Houston, we have a problem'?",
-    "answer": "apollo 13"
+    "answer": "apollo 13",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "424",
+    "category": 3,
+    "id": 68,
     "question": "In welk land brak de Spaanse Griep het eerst uit?",
-    "answer": "de verenigde staten"
+    "answer": "de verenigde staten",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "425",
+    "category": 3,
+    "id": 69,
     "question": "In welk jaar vond de beurskrach op Wall Street plaats?",
-    "answer": "1929"
+    "answer": 1929,
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "426",
+    "category": 3,
+    "id": 70,
     "question": "In welke stad werd Joan d'Arc vermoord?",
-    "answer": "rouen"
+    "answer": "rouen",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "427",
+    "category": 3,
+    "id": 71,
     "question": "Welke Duitse stad leed het meest onder de bombardementen in 1945?",
-    "answer": "dresden"
+    "answer": "dresden",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "428",
+    "category": 3,
+    "id": 72,
     "question": "Hoe heet de seriemoordenaar die in 1888 veel Londense prostituees vermoorde?",
-    "answer": "jack the ripper"
+    "answer": "jack the ripper",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "429",
+    "category": 3,
+    "id": 73,
     "question": "Hoe werd een vrouwelijke verdachte in de Jack The Ripper zaak genoemd?",
-    "answer": "jill the ripper"
+    "answer": "jill the ripper",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "430",
+    "category": 3,
+    "id": 74,
     "question": "Welk beroep had Rodney King?",
-    "answer": "taxichauffeur"
+    "answer": "taxichauffeur",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "431",
+    "category": 3,
+    "id": 75,
     "question": "In welke stad werd Rodney King mishandeld door de politie?",
-    "answer": "los angeles"
+    "answer": "los angeles",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "432",
+    "category": 3,
+    "id": 76,
     "question": "Op welke boot kwamen in 1839 slaven uit afrika in opstand?",
-    "answer": "amistad"
+    "answer": "amistad",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "434",
+    "category": 3,
+    "id": 77,
     "question": "Naar welk fictief personage werden de rassenwetten in de Verenigde Staten genoemd?",
-    "answer": "jim crow"
+    "answer": "jim crow",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "435",
+    "category": 3,
+    "id": 78,
     "question": "In welke stad is Martin Luther King geboren?",
-    "answer": "atlanta"
+    "answer": "atlanta",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "439",
+    "category": 3,
+    "id": 79,
     "question": "Omstreeks welk jaar begon de Industriele Revolutie?",
-    "answer": "1750"
+    "answer": 1750,
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "440",
+    "category": 3,
+    "id": 80,
     "question": "Welke machine stond aan de basis van de Industriele Revolutie?",
-    "answer": "de stoommachine"
+    "answer": "de stoommachine",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "441",
+    "category": 3,
+    "id": 81,
     "question": "Wie wordt gezien als uitvinder van de stoommachine?",
-    "answer": "james watt"
+    "answer": "james watt",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "442",
+    "category": 3,
+    "id": 82,
     "question": "In welke graafschap in Engeland begon de Industriele Revolutie?",
-    "answer": "lancashire"
+    "answer": "lancashire",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "443",
+    "category": 3,
+    "id": 83,
     "question": "Wanneer werd de Europese Gemeenschap voor Kolen en Staal opgericht?",
-    "answer": "1952"
+    "answer": 1952,
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "444",
+    "category": 3,
+    "id": 84,
     "question": "Welk land zat naast de Benelux, Frankrijk en Duitsland als eerst in de EGKS?",
-    "answer": "italie"
+    "answer": "italie",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "445",
+    "category": 3,
+    "id": 85,
     "question": "Welke Franse zakenman initieerde het stichten van de EGKS?",
-    "answer": "jean monnet"
+    "answer": "jean monnet",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "446",
+    "category": 3,
+    "id": 86,
     "question": "Onder welke keizer was het Romeinse Rijk het grootst?",
-    "answer": "keizer trajanus"
+    "answer": "keizer trajanus",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "447",
+    "category": 3,
+    "id": 87,
     "question": "Hoe heet het eerste riool ter wereld?",
-    "answer": "de cloaca maxima"
+    "answer": "de cloaca maxima",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "449",
+    "category": 3,
+    "id": 88,
     "question": "Met wie trouwde Cleopatra na de dood van Julius Ceasar?",
-    "answer": "marcus antonius"
+    "answer": "marcus antonius",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "450",
+    "category": 3,
+    "id": 89,
     "question": "Wie sprak de woorden 'Veni, vidi, vici'?",
-    "answer": "julius ceasar"
+    "answer": "julius ceasar",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "451",
+    "category": 3,
+    "id": 90,
     "question": "Hoe heette de maand juli voordat die vernoemt werd naar Julius Ceasar?",
-    "answer": "quintilis"
+    "answer": "quintilis",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "452",
+    "category": 3,
+    "id": 91,
     "question": "Wie voorspelde in de 19e eeuw het eind van het kapitalisme?",
-    "answer": "karl marx"
+    "answer": "karl marx",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "453",
+    "category": 3,
+    "id": 92,
     "question": "Wie was de dictator van de Sovjet-Unie tijdens de tweede wereldoorlog?",
-    "answer": "jozef stalin"
+    "answer": "jozef stalin",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "458",
+    "category": 3,
+    "id": 93,
     "question": "Welke marinebasis in Hawaii werd in 1941 aangevallen door Japan?",
-    "answer": "pearl harbour"
+    "answer": "pearl harbour",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "459",
+    "category": 3,
+    "id": 94,
     "question": "Wie was president van Cuba van 1976 tot 2008?",
-    "answer": "fidel castro"
+    "answer": "fidel castro",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "471",
+    "category": 3,
+    "id": 95,
     "question": "Wie was de leider van de sekte Branch Davidians?",
-    "answer": "david koresh"
+    "answer": "david koresh",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "472",
+    "category": 3,
+    "id": 96,
     "question": "Onder welke naam staat de Cuba-crisis in Cuba zelf bekend?",
-    "answer": "oktobercrisis"
+    "answer": "oktobercrisis",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "477",
+    "category": 3,
+    "id": 97,
     "question": "Wie was de eerste man op de maan?",
-    "answer": "neil armstrong"
+    "answer": "neil armstrong",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "484",
+    "category": 3,
+    "id": 98,
     "question": "Op welk eiland werd Napoleon Bonaparte geboren?",
-    "answer": "corsica"
+    "answer": "corsica",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "499",
+    "category": 3,
+    "id": 99,
     "question": "Wie was oprichter van de politieke partij LPF?",
-    "answer": "pim fortuyn"
+    "answer": "pim fortuyn",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "501",
+    "category": 3,
+    "id": 100,
     "question": "In welke stad werd Pim Fortuyn vermoord?",
-    "answer": "hilversum"
+    "answer": "hilversum",
+    "media": ""
   },
   {
-    "category": "3",
-    "id": "412",
+    "category": 3,
+    "id": 101,
     "question": "Wat is de achternaam van deze voormalige president?",
     "answer": "ataturk",
     "media": "https://github.com/g13g/high5/blob/master/data/images/Ataturk.jpg"
   },
   {
-    "category": "3",
-    "id": "413",
+    "category": 3,
+    "id": 102,
     "question": "Welke sekteleider zien we hier?",
     "answer": "charles manson",
     "media": "https://youtu.be/VtIvvmRi8Jo"
   },
   {
-    "category": "3",
-    "id": "414",
+    "category": 3,
+    "id": 103,
     "question": "Wie speelt Denzel Washington in deze film?",
     "answer": "malcolm x",
     "media": "https://youtu.be/-1Al62vwr9g"
   },
   {
-    "category": "3",
-    "id": "415",
+    "category": 3,
+    "id": 104,
     "question": "Over wie gaat dit fragment?",
     "answer": "rosa parks",
     "media": "https://youtu.be/AOpJcIs2Cv8"
   },
   {
-    "category": "4",
-    "id": "615",
+    "category": 4,
+    "id": 105,
     "question": "Wat is het beloofde land voor de Rasta's?",
-    "answer": "ethiopie"
+    "answer": "ethiopie",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "616",
+    "category": 4,
+    "id": 106,
     "question": "Van welk land is Bamako de hoofdstad?",
-    "answer": "mali"
+    "answer": "mali",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "617",
+    "category": 4,
+    "id": 107,
     "question": "Wat is de hoofstad van Mali?",
-    "answer": "bamako"
+    "answer": "bamako",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "618",
+    "category": 4,
+    "id": 108,
     "question": "Hoe heet de hoofdstad van Nigeria?",
-    "answer": "abuja"
+    "answer": "abuja",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "624",
+    "category": 4,
+    "id": 109,
     "question": "In welk land is in 1988 de Floriade ontstaan?",
-    "answer": "australie"
+    "answer": "australie",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "625",
+    "category": 4,
+    "id": 110,
     "question": "In welk land is Mila Kunis geboren?",
-    "answer": "oekraine"
+    "answer": "oekraine",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "626",
+    "category": 4,
+    "id": 111,
     "question": "In welk land is Rita Ora geboren?",
-    "answer": "kosovo"
+    "answer": "kosovo",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "627",
+    "category": 4,
+    "id": 112,
     "question": "Hoe heet het Canadese gerecht dat bestaat uit frietjes met verse kaas erop, gedrenkt in jus?",
-    "answer": "poutine"
+    "answer": "poutine",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "628",
+    "category": 4,
+    "id": 113,
     "question": "Wat is het op 1 na grootste land ter wereld?",
-    "answer": "canada"
+    "answer": "canada",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "637",
+    "category": 4,
+    "id": 114,
     "question": "Hoe heet het kasteel dat diende als inspiratie voor het kasteel van Doornroosje in Disneyland?",
-    "answer": "neuschwanstein"
+    "answer": "neuschwanstein",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "638",
+    "category": 4,
+    "id": 115,
     "question": "Hoe heet de wijk in Tokio waar de hipste urban culture en Cosplay het straatbeeld bepalen?",
-    "answer": "harajuku"
+    "answer": "harajuku",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "639",
+    "category": 4,
+    "id": 116,
     "question": "In welke stad ligt de Copacabana?",
-    "answer": "rio de janeiro"
+    "answer": "rio de janeiro",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "640",
+    "category": 4,
+    "id": 117,
     "question": "Waar staat het ABBA museum?",
-    "answer": "stockholm"
+    "answer": "stockholm",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "641",
+    "category": 4,
+    "id": 118,
     "question": "In welke stad is Mozart geboren?",
-    "answer": "salzburg"
+    "answer": "salzburg",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "651",
+    "category": 4,
+    "id": 119,
     "question": "Wat is de naam van het land met de minste inwoners ter wereld?",
-    "answer": "pitcairn islands"
+    "answer": "pitcairn islands",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "655",
+    "category": 4,
+    "id": 120,
     "question": "Welk land kent 12 actieve tijdzones?",
-    "answer": "frankrijk"
+    "answer": "frankrijk",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "656",
+    "category": 4,
+    "id": 121,
     "question": "Uit welk land komen alle panda's?",
-    "answer": "china"
+    "answer": "china",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "657",
+    "category": 4,
+    "id": 122,
     "question": "Wat vind je in vergelijking tot andere landen het minst per kilometer in Mongolie?",
-    "answer": "mensen"
+    "answer": "mensen",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "662",
+    "category": 4,
+    "id": 123,
     "question": "Wat was het eerste Nationale Park in de VS?",
-    "answer": "yellowstone"
+    "answer": "yellowstone",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "666",
+    "category": 4,
+    "id": 124,
     "question": "In welke stad ligt het Djemaa El Fna plein?",
-    "answer": "marrakech"
+    "answer": "marrakech",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "683",
+    "category": 4,
+    "id": 125,
     "question": "Van welk muziekgenre is Nashville bekend?",
-    "answer": "country"
+    "answer": "country",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "685",
+    "category": 4,
+    "id": 126,
     "question": "Uit welk land komen The Cardigans en Ace of Base?",
-    "answer": "zweden"
+    "answer": "zweden",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "699",
+    "category": 4,
+    "id": 127,
     "question": "Wat is het kleinste land van Zuidoost-Azie?",
-    "answer": "singapore"
+    "answer": "singapore",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "704",
+    "category": 4,
+    "id": 128,
     "question": "In welk land ligt het district Brokopondo?",
-    "answer": "suriname"
+    "answer": "suriname",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "719",
+    "category": 4,
+    "id": 129,
     "question": "Op welk eiland  werden anti-apartheids strijders gevangen gehouden?",
-    "answer": "robbeneiland"
+    "answer": "robbeneiland",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "749",
+    "category": 4,
+    "id": 130,
     "question": "Hoe heet de hoogste toren van Toronto?",
-    "answer": "cn tower"
+    "answer": "cn tower",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "761",
+    "category": 4,
+    "id": 131,
     "question": "Welk land is met circa 33.000 inwoners het op een na kleinste land van Europa?",
-    "answer": "monaco"
+    "answer": "monaco",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "776",
+    "category": 4,
+    "id": 132,
     "question": "Welk deel van Rotterdam werd in 1943 per ongeluk gebombardeerd door de geallieerden?",
-    "answer": "delfshaven"
+    "answer": "delfshaven",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "782",
+    "category": 4,
+    "id": 133,
     "question": "Wat is het steilste eiland ter wereld?",
-    "answer": "la palma"
+    "answer": "la palma",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "787",
+    "category": 4,
+    "id": 134,
     "question": "Hoe heet het drukste zebrapad ter wereld dat ligt in Japan?",
-    "answer": "shibuya crossing"
+    "answer": "shibuya crossing",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "793",
+    "category": 4,
+    "id": 135,
     "question": "In welke stad werd de aanslag op Charlie Hebdo gepleegd?",
-    "answer": "parijs"
+    "answer": "parijs",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "801",
+    "category": 4,
+    "id": 136,
     "question": "Wat is de hoofdstad van Bonaire?",
-    "answer": "kralendijk"
+    "answer": "kralendijk",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "812",
+    "category": 4,
+    "id": 137,
     "question": "Wie ontwierp de Sagrada Familia in Barcelona?",
-    "answer": "antoni gaudi"
+    "answer": "antoni gaudi",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "814",
+    "category": 4,
+    "id": 138,
     "question": "In welke stad werd Willem van Oranje in 1584 vermoord?",
-    "answer": "delft"
+    "answer": "delft",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "820",
+    "category": 4,
+    "id": 139,
     "question": "Wat is de postcode van de kerstman?",
-    "answer": "h0h 0h0"
+    "answer": "h0h 0h0",
+    "media": ""
   },
   {
-    "category": "4",
-    "id": "820",
+    "category": 4,
+    "id": 140,
     "question": "Wat is de naam van deze waterval?",
     "answer": "iguazu",
     "media": "https://github.com/g13g/high5/blob/master/data/images/Iguazu.JPG"
   },
   {
-    "category": "4",
-    "id": "820",
+    "category": 4,
+    "id": 141,
     "question": "In welk land is deze foto gemaakt?",
     "answer": "argentinie",
     "media": "https://github.com/g13g/high5/blob/master/data/images/Los%20Glaciares%20National%20Park's.JPG"
   },
   {
-    "category": "4",
-    "id": "820",
+    "category": 4,
+    "id": 142,
     "question": "In welk land is deze foto gemaakt?",
     "answer": "turkije",
     "media": "https://github.com/g13g/high5/blob/master/data/images/Goreme%20National%20Park.JPG"
   },
   {
-    "category": "4",
-    "id": "820",
+    "category": 4,
+    "id": 143,
     "question": "Welke stad zien we hier?",
     "answer": "rio de janairo",
     "media": "https://github.com/g13g/high5/blob/master/data/images/RIO-DE-JANEIRO-BRAZIL.jpg"
   },
   {
-    "category": "4",
-    "id": "820",
+    "category": 4,
+    "id": 144,
     "question": "Welke stad zien we hier?",
     "answer": "shanghai",
     "media": "https://github.com/g13g/high5/blob/master/data/images/SHANGHAI-CHINA.jpg"
   },
   {
-    "category": "4",
-    "id": "820",
+    "category": 4,
+    "id": 145,
     "question": "Welke stad zien we hier?",
     "answer": "chicago",
     "media": "https://github.com/g13g/high5/blob/master/data/images/CHICAGO-USA.jpg"
   },
   {
-    "category": "4",
-    "id": "820",
+    "category": 4,
+    "id": 146,
     "question": "Welke stad zien we hier?",
     "answer": "vancouver",
     "media": "https://github.com/g13g/high5/blob/master/data/images/VANCOUVER-CANADA.jpg"
   },
   {
-    "category": "4",
-    "id": "820",
+    "category": 4,
+    "id": 147,
     "question": "Welke stad zien we hier?",
     "answer": "hong kong",
     "media": "https://github.com/g13g/high5/blob/master/data/images/HONG-KONG-CHINA.jpg"
   },
   {
-    "category": "4",
-    "id": "820",
+    "category": 4,
+    "id": 148,
     "question": "Welke stad zien we hier?",
     "answer": "frankfurt",
     "media": "https://github.com/g13g/high5/blob/master/data/images/Frankfurt.jpg"
   },
   {
-    "category": "5",
-    "id": "823",
+    "category": 5,
+    "id": 149,
     "question": "Wie heeft Judo uitgevonden?",
-    "answer": "yigoro kano"
+    "answer": "yigoro kano",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "825",
+    "category": 5,
+    "id": 150,
     "question": "Hoe heet het scorebord bij kaatsen?",
-    "answer": "telegraaf"
+    "answer": "telegraaf",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "826",
+    "category": 5,
+    "id": 151,
     "question": "Hoe wordt het bij snowboarden genoemd wanneer je met je rechtervoet voorop het board staat?",
-    "answer": "goofy"
+    "answer": "goofy",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "827",
+    "category": 5,
+    "id": 152,
     "question": "Welke sporter heeft naast vijf NBA-titels en twee gouden olympische ook een Oscar gewonnen?",
-    "answer": "kobe bryant"
+    "answer": "kobe bryant",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "853",
+    "category": 5,
+    "id": 153,
     "question": "Welke twee kleuren rugnummers komen er in de Tour de France voor?",
-    "answer": "zwart en rood"
+    "answer": "zwart en rood",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "855",
+    "category": 5,
+    "id": 154,
     "question": "Wie won de Tour de France tussen  1999 tot 2005, maar moest zijn titels later weer inleveren?",
-    "answer": "lance armstrong"
+    "answer": "lance armstrong",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "858",
+    "category": 5,
+    "id": 155,
     "question": "Welke Nederlandse won de Ronde van Frankrijk voor vrouwen in 1992 en 1993?",
-    "answer": "leontien van moorsel"
+    "answer": "leontien van moorsel",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "864",
+    "category": 5,
+    "id": 156,
     "question": "Hoeveel WK-wedstrijden speelde de voetballegende Alfredo di Stefano?",
-    "answer": "0"
+    "answer": 0,
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "867",
+    "category": 5,
+    "id": 157,
     "question": "Welk land won het WK voetbal in 2018 in  Rusland?",
-    "answer": "frankrijk"
+    "answer": "frankrijk",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "894",
+    "category": 5,
+    "id": 158,
     "question": "Welke voetballer uit Kroatie werd tot beste speler gekroond op het WK van 2018?",
-    "answer": "luka modric"
+    "answer": "luka modric",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "899",
+    "category": 5,
+    "id": 159,
     "question": "Welke voetballer uit Brazilie werd tot beste speler gekroond op het WK van 1998?",
-    "answer": "ronaldo"
+    "answer": "ronaldo",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "904",
+    "category": 5,
+    "id": 160,
     "question": "Welke coureur speelde een rol in de film Asterix en de Olympische Spelen?",
-    "answer": "michael schumacher"
+    "answer": "michael schumacher",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "953",
+    "category": 5,
+    "id": 161,
     "question": "Welke voetballer heeft Ibracadabra als bijnaam?",
-    "answer": "zlatan ibrahimovic"
+    "answer": "zlatan ibrahimovic",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "960",
+    "category": 5,
+    "id": 162,
     "question": "Wat is na voetbal de populairste sport ter wereld?",
-    "answer": "cricket"
+    "answer": "cricket",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "982",
+    "category": 5,
+    "id": 163,
     "question": "In welke land is golf ontstaan?",
-    "answer": "schotland"
+    "answer": "schotland",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "991",
+    "category": 5,
+    "id": 164,
     "question": "Welke team naast de Chicago Bulls trok shirtnummer 23 terug als waardering voor Michael Jordan?",
-    "answer": "miami heat"
+    "answer": "miami heat",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "995",
+    "category": 5,
+    "id": 165,
     "question": "Wie is de legendarische nummer 14 van het Nederlands voetbalelftal?",
-    "answer": "johan cruijff"
+    "answer": "johan cruijff",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "998",
+    "category": 5,
+    "id": 166,
     "question": "Welke basketballer is bekend geworden door zijn bijzondere uiterlijk met tattoos, gekleurd haar en piercings?",
-    "answer": "dennis rodman"
+    "answer": "dennis rodman",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "1000",
+    "category": 5,
+    "id": 167,
     "question": "Welke autocoureur overleed tijdens een crash in de Grand Prix van San Marino in 1994?",
-    "answer": "ayton senna"
+    "answer": "ayton senna",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "1005",
+    "category": 5,
+    "id": 168,
     "question": "In welke sport was Joe Davis 20 jaar lang wereldkampioen?",
-    "answer": "snooker"
+    "answer": "snooker",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "1006",
+    "category": 5,
+    "id": 169,
     "question": "Welke voetballer werd de Zwarte Parel genoemd?",
-    "answer": "pele"
+    "answer": "pele",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "1007",
+    "category": 5,
+    "id": 170,
     "question": "In welke sport was Babe Ruth een uitblinker?",
-    "answer": "honkbal"
+    "answer": "honkbal",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "1011",
+    "category": 5,
+    "id": 171,
     "question": "Wie was de eerste Nederlandse judoka die een gouden olympische medaille haalde?",
-    "answer": "anton geesink"
+    "answer": "anton geesink",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "1012",
+    "category": 5,
+    "id": 172,
     "question": "Wie is de jongste Grand Prix winnaar ooit?",
-    "answer": "max verstappen"
+    "answer": "max verstappen",
+    "media": ""
   },
   {
-    "category": "5",
-    "id": "1015",
+    "category": 5,
+    "id": 173,
     "question": "Wie is de schoonvader van Mark van Bommel?",
-    "answer": "bert van marwijk"
+    "answer": "bert van marwijk",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1030",
+    "category": 6,
+    "id": 174,
     "question": "In welk lichaamsdeel vind je het aambeeld?",
-    "answer": "oor"
+    "answer": "oor",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1032",
+    "category": 6,
+    "id": 175,
     "question": "Wat is een pedometer?",
-    "answer": "stappenteller"
+    "answer": "stappenteller",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1034",
+    "category": 6,
+    "id": 176,
     "question": "Welk eetbaar ingredient zit er in dynamiet?",
-    "answer": "pinda's "
+    "answer": "pinda's",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1035",
+    "category": 6,
+    "id": 177,
     "question": "Wat hebben architectonisch landschapsschilder Jan van der Heyden en zijn broer Nicolaas uitgevonden in 1673?",
-    "answer": "brandslang"
+    "answer": "brandslang",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1038",
+    "category": 6,
+    "id": 178,
     "question": "Welke bedrijf heeft Bluetooth uitgevonden?",
-    "answer": "ericsson"
+    "answer": "ericsson",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1040",
+    "category": 6,
+    "id": 179,
     "question": "Welke bekend drankje bevat geheim ingredient x7?",
-    "answer": "coca-cola"
+    "answer": "coca-cola",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1049",
+    "category": 6,
+    "id": 180,
     "question": "Welke druk werd in Asch conformiteits studie onderzocht?",
-    "answer": "groepsdruk"
+    "answer": "groepsdruk",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1051",
+    "category": 6,
+    "id": 181,
     "question": "Wat wordt als eerste gevormd als cellen zich delen en zich tot een mens ontwikkelen?",
-    "answer": "de anus"
+    "answer": "de anus",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1053",
+    "category": 6,
+    "id": 182,
     "question": "Wat zien je ogen altijd maar wordt door de hersenen genegeerd?",
-    "answer": "je neus"
+    "answer": "je neus",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1059",
+    "category": 6,
+    "id": 183,
     "question": "Waar zit een vierde van alle beenderen in je lichaam?",
-    "answer": "de voeten"
+    "answer": "de voeten",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1062",
+    "category": 6,
+    "id": 184,
     "question": "Welke boor is naar een insect vernoemd?",
-    "answer": "vlinderboor"
+    "answer": "vlinderboor",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1066",
+    "category": 6,
+    "id": 185,
     "question": "Wie vond als eerst de telefoon uit?",
-    "answer": "antionio meucci"
+    "answer": "antionio meucci",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1068",
+    "category": 6,
+    "id": 186,
     "question": "Welk metaal is als enige bij kamertemperatuur vloeibaar?",
-    "answer": "kwik"
+    "answer": "kwik",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1088",
+    "category": 6,
+    "id": 187,
     "question": "Binnen welk bedrijf in de Kanban methode ontwikkeld?",
-    "answer": "toyota"
+    "answer": "toyota",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1097",
+    "category": 6,
+    "id": 188,
     "question": "Welke dieren hebben de krachtigste beet ter wereld?",
-    "answer": "krokodillen"
+    "answer": "krokodillen",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1099",
+    "category": 6,
+    "id": 189,
     "question": "Hoeveel procent komt het DNA van mensen en bananen overeen?",
-    "answer": "50"
+    "answer": 50,
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1104",
+    "category": 6,
+    "id": 190,
     "question": "Wat is volgens een onderzoek uit 2013 net zo uniek als je vingerafdruk?",
-    "answer": "tongafdruk"
+    "answer": "tongafdruk",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1107",
+    "category": 6,
+    "id": 191,
     "question": "Wat is de afkorting van de stof die Zwitserse scheikundige Albert Hofmann ontwikkelde?",
-    "answer": "lsd"
+    "answer": "lsd",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1110",
+    "category": 6,
+    "id": 192,
     "question": "Wat is de wetenschappelijke afkorting van zilver?",
-    "answer": "ag"
+    "answer": "ag",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1111",
+    "category": 6,
+    "id": 193,
     "question": "Wat is de heetste planeer in ons zonnestelsel?",
-    "answer": "venus"
+    "answer": "venus",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1116",
+    "category": 6,
+    "id": 194,
     "question": "Wie vond de batterij uit?",
-    "answer": "count alessandro volta"
+    "answer": "count alessandro volta",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1119",
+    "category": 6,
+    "id": 195,
     "question": "Hoeveel procent zilver zit er in sterling zilver?",
-    "answer": "92,5%"
+    "answer": "92,5%",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1121",
+    "category": 6,
+    "id": 196,
     "question": "Welke planeet draait het snelst?",
-    "answer": "jupiter"
+    "answer": "jupiter",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1122",
+    "category": 6,
+    "id": 197,
     "question": "Wie vond de thermometer uit?",
-    "answer": "galileo"
+    "answer": "galileo",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1124",
+    "category": 6,
+    "id": 198,
     "question": "Waarom zit er een gat in het midden van een donut?",
-    "answer": "zo hoeft het deeg minder lang gebakken te worden"
+    "answer": "zo hoeft het deeg minder lang gebakken te worden",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1126",
+    "category": 6,
+    "id": 199,
     "question": "Wie is de uitvinder van de microscoop?",
-    "answer": "sacharias jansen"
+    "answer": "sacharias jansen",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1128",
+    "category": 6,
+    "id": 200,
     "question": "Welk beroep had de uitvinder van Coca-Cola?",
-    "answer": "apotheker"
+    "answer": "apotheker",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1134",
+    "category": 6,
+    "id": 201,
     "question": "Wat is het enige zoogdier op aarde dat niet kan springen?",
-    "answer": "de olifant"
+    "answer": "de olifant",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1138",
+    "category": 6,
+    "id": 202,
     "question": "Welk gas werd vroeger gebruikt om een luchtballon te laten zweven?",
-    "answer": "waterstof"
+    "answer": "waterstof",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1147",
+    "category": 6,
+    "id": 203,
     "question": "Hoe heet de stof die 180x zoeter is dan suiker en geen calorieen bevat?",
-    "answer": "aspartaam"
+    "answer": "aspartaam",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1153",
+    "category": 6,
+    "id": 204,
     "question": "Wat wordt in riemen gemeten?",
-    "answer": "papier"
+    "answer": "papier",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1158",
+    "category": 6,
+    "id": 205,
     "question": "Welke planeet is niet vernoemd naar Griekse of Romeinse goden?",
-    "answer": "de aarde"
+    "answer": "de aarde",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1166",
+    "category": 6,
+    "id": 206,
     "question": "In welke eenheid wordt de sterkte van een magneet uigedrukt?",
-    "answer": "tesla"
+    "answer": "tesla",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1169",
+    "category": 6,
+    "id": 207,
     "question": "Wie heeft het pasteurisatieproces voor melk ontdekt?",
-    "answer": "louis pasteur"
+    "answer": "louis pasteur",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1170",
+    "category": 6,
+    "id": 208,
     "question": "Wie heeft de elektrische generator, de transformator en de dynamo uitgevonden?",
-    "answer": "michael faraday"
+    "answer": "michael faraday",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1171",
+    "category": 6,
+    "id": 209,
     "question": "In welk land is de eerste seismograaf ontdekt?",
-    "answer": "china"
+    "answer": "china",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1180",
+    "category": 6,
+    "id": 210,
     "question": "Welke kleur heeft karmijnzuur?",
-    "answer": "roze"
+    "answer": "roze",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1185",
+    "category": 6,
+    "id": 211,
     "question": "Wie ontwikkelde de fonograaf, een voorloper van de grammofoon?",
-    "answer": "thomas edison"
+    "answer": "thomas edison",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1188",
+    "category": 6,
+    "id": 212,
     "question": "Wie ontdekte dat er bacterien bestaan?",
-    "answer": "anthonie van leeuwenhoek"
+    "answer": "anthonie van leeuwenhoek",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1189",
+    "category": 6,
+    "id": 213,
     "question": "Wie won de eerste Nobelprijs voor natuurkunde vanwege de ontdekking van Rontgenstralen?",
-    "answer": "wilhelm rontgen"
+    "answer": "wilhelm rontgen",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1206",
+    "category": 6,
+    "id": 214,
     "question": "Welk gas wordt naast neon vaak gebruikt in zogenaamde neon-verlichting?",
-    "answer": "argon"
+    "answer": "argon",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1224",
+    "category": 6,
+    "id": 215,
     "question": "Welk dier werd tot 1960 gebruikt als zwangerschapstest?",
-    "answer": "de kikker"
+    "answer": "de kikker",
+    "media": ""
   },
   {
-    "category": "6",
-    "id": "1430",
+    "category": 6,
+    "id": 216,
     "question": "Welk eten werd voor het eerst klaargemaakt in een magnetron?",
-    "answer": "popcorn"
+    "answer": "popcorn",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1231",
+    "category": 7,
+    "id": 217,
     "question": "Wat is de echte voornaam van Oprah Winfrey?",
-    "answer": "orpah"
+    "answer": "orpah",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1232",
+    "category": 7,
+    "id": 218,
     "question": "Welk topmodel poseerde al op 2-jarige leeftijd voor Guess Kids?",
-    "answer": "gigi hadid"
+    "answer": "gigi hadid",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1233",
+    "category": 7,
+    "id": 219,
     "question": "Wie is al sinds de kleuterschool de beste vriend van Adam Levine?",
-    "answer": "jake gyllenhaal"
+    "answer": "jake gyllenhaal",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1234",
+    "category": 7,
+    "id": 220,
     "question": "Wie zong het openingsnummer op het huwelijk van Kate Middleton en prins William?",
-    "answer": "ellie goulding"
+    "answer": "ellie goulding",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1235",
+    "category": 7,
+    "id": 221,
     "question": "Wat werd er gekweekt op de boerderij waar Taylor Swift is opgegroeid?",
-    "answer": "kerstbomen"
+    "answer": "kerstbomen",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1245",
+    "category": 7,
+    "id": 222,
     "question": "Wie is de peetvader van het eerste kind van Michael Jackson genaamd Prince?",
-    "answer": "macaulay culkin"
+    "answer": "macaulay culkin",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1255",
+    "category": 7,
+    "id": 223,
     "question": "Welke Engelse princes had een tragisch en fataal auto-ongeluk in Parijs toen vele paparazzi haar volgden?",
-    "answer": "princes diana"
+    "answer": "princes diana",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1256",
+    "category": 7,
+    "id": 224,
     "question": "Welke actrice probeerde in 2001 voor ruim $ 5.500 aan goederen te stelen in de Saks Fifth Avenue in Beverly Hills?",
-    "answer": "winona rider"
+    "answer": "winona rider",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1257",
+    "category": 7,
+    "id": 225,
     "question": "Met wie kustte Britney Spears in 2003 op het podium tijdens de VMA's?",
-    "answer": "madonna"
+    "answer": "madonna",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1258",
+    "category": 7,
+    "id": 226,
     "question": "Van welke zangeres was een tepel te zien tijdens een optreden in de rust van de Super Bowl van 2004?",
-    "answer": "janet jackson"
+    "answer": "janet jackson",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1260",
+    "category": 7,
+    "id": 227,
     "question": "Welke zangeres scheerde haar hoofd kaal in 2007 nadat ze scheidde van haar man K-Fed?",
-    "answer": "britney spears"
+    "answer": "britney spears",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1262",
+    "category": 7,
+    "id": 228,
     "question": "Van wie zette Gawker.com een sexpfilmpje online dat $ 140.000.000 aan boetes opleverde?",
-    "answer": "hulk hogan"
+    "answer": "hulk hogan",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1263",
+    "category": 7,
+    "id": 229,
     "question": "Wie viel in 2014 rapper Jay-Z aan in een lift na een Met Gala after-party?",
-    "answer": "solange"
+    "answer": "solange",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1271",
+    "category": 7,
+    "id": 230,
     "question": "Welke zangeres is de moeder van Tracee Ellis?",
-    "answer": "diana ross"
+    "answer": "diana ross",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1272",
+    "category": 7,
+    "id": 231,
     "question": "Hoe heet de oudste zoon van Will Smith?",
-    "answer": "jaden"
+    "answer": "jaden",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1274",
+    "category": 7,
+    "id": 232,
     "question": "Wie was de eerste zwarte vrouw op de september cover van de Britse Voque?",
-    "answer": "rihanna"
+    "answer": "rihanna",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1285",
+    "category": 7,
+    "id": 233,
     "question": "Voor wie was Damon Thomas haar eerste echtgenoot?",
-    "answer": "kim kardashian"
+    "answer": "kim kardashian",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1287",
+    "category": 7,
+    "id": 234,
     "question": "Wie speelde een  grote rol naast Paris Hilton in The Simple Life?",
-    "answer": "nicole richie"
+    "answer": "nicole richie",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1294",
-    "question": "In welke tv-serie speelde één van de princessen van Engeland?",
-    "answer": "suits"
+    "category": 7,
+    "id": 235,
+    "question": "In welke tv-serie speelde ��n van de princessen van Engeland?",
+    "answer": "suits",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1309",
+    "category": 7,
+    "id": 236,
     "question": "In welk jaar is Gwen Stefani geboren?",
-    "answer": "1969"
+    "answer": 1969,
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1310",
+    "category": 7,
+    "id": 237,
     "question": "In welk jaar is Salma Hayek geboren?",
-    "answer": "1966"
+    "answer": 1966,
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1311",
+    "category": 7,
+    "id": 238,
     "question": "In welk jaar is Jennifer Aniston geboren?",
-    "answer": "1969"
+    "answer": 1969,
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1315",
+    "category": 7,
+    "id": 239,
     "question": "Met wie is Kate Middleton getrouwd?",
-    "answer": "prins william"
+    "answer": "prins william",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1316",
+    "category": 7,
+    "id": 240,
     "question": "Wie is de moeder van Johnny de Mol?",
-    "answer": "willeke alberti"
+    "answer": "willeke alberti",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1318",
+    "category": 7,
+    "id": 241,
     "question": "Welke Nederlandse artiest heet eigenlijk Heuckeroth van zijn achternaam?",
-    "answer": "gordon"
+    "answer": "gordon",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1331",
+    "category": 7,
+    "id": 242,
     "question": "Met de dochter van welke ster was Micheal Jackson getrouwd?",
-    "answer": "elvis presley"
+    "answer": "elvis presley",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1340",
+    "category": 7,
+    "id": 243,
     "question": "Met welk wodkamerk heeft P. Diddy en partnerschap?",
-    "answer": "ciroc"
+    "answer": "ciroc",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1351",
+    "category": 7,
+    "id": 244,
     "question": "Hoe noemde rapper Boef drie meisjes die hem hielpen bij autopech?",
-    "answer": "kechs"
+    "answer": "kechs",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1355",
+    "category": 7,
+    "id": 245,
     "question": "Wie droeg een vleesjurk naar de MTV VMA's in 2010?",
-    "answer": "lady gaga"
+    "answer": "lady gaga",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1370",
+    "category": 7,
+    "id": 246,
     "question": "Welke Nederlandse dame claimde een affaire te hebben gehad met David Beckham?",
-    "answer": "rebecca loos"
+    "answer": "rebecca loos",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1371",
+    "category": 7,
+    "id": 247,
     "question": "Met wie heeft Josh Duhamel een zoon?",
-    "answer": "fergie"
+    "answer": "fergie",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1394",
+    "category": 7,
+    "id": 248,
     "question": "Welke beroemdheid verloor 1 miljard aan zijn eerste eigen casino?",
-    "answer": "donald trump"
+    "answer": "donald trump",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1406",
+    "category": 7,
+    "id": 249,
     "question": "Voor welke sportketen maakte Tatjana Simic reclame?",
-    "answer": "basic fit"
+    "answer": "basic fit",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1418",
+    "category": 7,
+    "id": 250,
     "question": "Wie is de oprichtster van online magazine NSMBL?",
-    "answer": "anna nooshin"
+    "answer": "anna nooshin",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1419",
+    "category": 7,
+    "id": 251,
     "question": "Wie schreef het boek MKBM?",
-    "answer": "fajah lourens"
+    "answer": "fajah lourens",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1426",
+    "category": 7,
+    "id": 252,
     "question": "Wie is oprichtster van The Honest Company?",
-    "answer": "jessica alba"
+    "answer": "jessica alba",
+    "media": ""
   },
   {
-    "category": "7",
-    "id": "1429",
+    "category": 7,
+    "id": 253,
     "question": "Wie gaf toe een nep filmpje van een wilde jakhals online te hebben gezet?",
-    "answer": "nicolette van dam"
+    "answer": "nicolette van dam",
+    "media": ""
   }
 ]
