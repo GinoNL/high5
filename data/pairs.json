@@ -200,7 +200,6 @@
     "id": 29,
     "question": "Uit welke film komt deze scene?",
     "answer": "scream",
-    "media": "https://youtu.be/8aAzq1td4G8"
   },
   {
     "category": 1,
@@ -625,7 +624,7 @@
   {
     "category": 3,
     "id": 90,
-    "question": "Hoe heette de maand juli voordat die vernoemt werd naar Julius Ceasar?",
+    "question": "Hoe heette de maand juli voordat die vernoemd werd naar Julius Caesar?",
     "answer": "quintilis",
     "media": ""
   },
